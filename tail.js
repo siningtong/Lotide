@@ -5,7 +5,7 @@ const tail = function(num) {
   else if(num.length === 0 || num=== 1){
     return [];
   }
-  return num.slice(0);
+  return num.slice(1);
 };
 
 module.exports = tail;
