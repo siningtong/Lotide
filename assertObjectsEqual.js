@@ -55,3 +55,4 @@ const c={
 }
 assertObjectsEqual(a,b);
 assertObjectsEqual(a,c)
+module.exports=assertObjectsEqual;

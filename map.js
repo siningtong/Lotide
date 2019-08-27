@@ -31,3 +31,4 @@ const assertArraysEquals = function(array1,array2){
 let x=['g','c','t','m','t']
 let y=map(words,word => word[0])
 assertArraysEquals(x,y)
+module.exports=map;

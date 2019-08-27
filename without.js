@@ -32,3 +32,4 @@ const without = function(source, itemsToRemove) {
   return newArr
 }
 console.log(without(["1", "2", "3"], [1, 2, "3"]))
+module.exports=without;

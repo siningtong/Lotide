@@ -39,3 +39,4 @@ console.log(letterPositions(test))
    assertEqual(eqArrays(letterPositions('hello').e, [1]), true)
 
 
+   module.exports=letterPositions;

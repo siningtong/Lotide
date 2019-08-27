@@ -20,4 +20,5 @@ const assertEqual=function(actual,expected){
     }
     return result
   }
+  module.exports=countLetters;
   
