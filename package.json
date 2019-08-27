@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@siningtong/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project was created and published by SiningTong as part of my learnings at Lighthouse Labs. ",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Sining Tong <siningtong@gmail.com> (https://github.com/siningtong)",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
